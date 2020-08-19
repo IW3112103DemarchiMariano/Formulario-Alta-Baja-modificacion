@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.Properties.Resources.resources
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\bin\Debug\ConeccionAbase.exe.config
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\bin\Debug\ConeccionAbase.exe
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\bin\Debug\ConeccionAbase.pdb
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.exe
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.pdb
+C:\Users\maria\source\repos\ConeccionAbase\ConeccionAbase\obj\Debug\ConeccionAbase.Form1.resources
